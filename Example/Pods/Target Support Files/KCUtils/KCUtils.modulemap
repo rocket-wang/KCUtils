@@ -1,0 +1,6 @@
+framework module KCUtils {
+  umbrella header "KCUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

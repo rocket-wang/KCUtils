@@ -1,0 +1,16 @@
+PODS:
+  - KCUtils (0.1.0)
+
+DEPENDENCIES:
+  - KCUtils (from `../`)
+
+EXTERNAL SOURCES:
+  KCUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KCUtils: fcfafebb58b38da7e514d262abdeb0a3d2555999
+
+PODFILE CHECKSUM: 2c91f098a978743a296a1d0e96d05b0c81307ac2
+
+COCOAPODS: 1.9.1
